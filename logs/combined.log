@@ -1,0 +1,82 @@
+{"level":"info","message":"➡️  POST /accounts - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T11:43:47.383Z"}
+{"level":"info","message":"⬅️  POST /accounts - 185ms","service":"budget-tracker-api","timestamp":"2025-11-24T11:43:47.567Z"}
+{"level":"info","message":"➡️  POST /accounts - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T11:55:53.114Z"}
+{"level":"info","message":"⬅️  POST /accounts - 153ms","service":"budget-tracker-api","timestamp":"2025-11-24T11:55:53.264Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:04:35.827Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 489ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:04:36.315Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:05:26.962Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 478ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:05:27.440Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:12:51.166Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 508ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:12:51.674Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:14:11.007Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 516ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:14:11.522Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:18:28.106Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 456ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:18:28.561Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:20:38.001Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 559ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:20:38.558Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/register - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:56:16.621Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/register - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:56:25.624Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/register - 615ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:56:26.238Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/register - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:56:29.854Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/register - 594ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:56:30.448Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/register - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:56:34.888Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/register - 710ms","service":"budget-tracker-api","timestamp":"2025-11-24T12:56:35.598Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/register - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T12:56:40.215Z"}
+{"context":"","level":"info","message":"➡️  POST /accounts - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:00:47.682Z"}
+{"context":"","level":"info","message":"⬅️  POST /accounts - 171ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:00:47.853Z"}
+{"context":"","level":"info","message":"➡️  GET /accounts/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:00:52.628Z"}
+{"context":"","level":"info","message":"⬅️  GET /accounts/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 29ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:00:52.658Z"}
+{"context":"","level":"info","message":"➡️  POST /transactions - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:00:56.437Z"}
+{"context":"","level":"info","message":"⬅️  POST /transactions - 139ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:00:56.576Z"}
+{"context":"","level":"info","message":"➡️  GET /transactions/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:00:59.412Z"}
+{"context":"","level":"info","message":"⬅️  GET /transactions/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 45ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:00:59.457Z"}
+{"context":"","level":"info","message":"➡️  POST /budgets - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:01.270Z"}
+{"context":"","level":"info","message":"⬅️  POST /budgets - 67ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:01.336Z"}
+{"context":"","level":"info","message":"➡️  GET /budgets/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:04.010Z"}
+{"context":"","level":"info","message":"⬅️  GET /budgets/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 37ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:04.047Z"}
+{"context":"","level":"info","message":"➡️  POST /goals - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:06.084Z"}
+{"context":"","level":"info","message":"⬅️  POST /goals - 84ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:06.168Z"}
+{"context":"","level":"info","message":"➡️  GET /goals/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:09.701Z"}
+{"context":"","level":"info","message":"⬅️  GET /goals/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 40ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:09.740Z"}
+{"context":"","level":"info","message":"➡️  GET /recurring-transactions/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:14.317Z"}
+{"context":"","level":"info","message":"⬅️  GET /recurring-transactions/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 32ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:14.349Z"}
+{"context":"","level":"info","message":"➡️  POST /reports/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:16.032Z"}
+{"context":"","level":"info","message":"⬅️  POST /reports/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 44ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:16.077Z"}
+{"context":"","level":"info","message":"➡️  GET /reports/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:19.722Z"}
+{"context":"","level":"info","message":"⬅️  GET /reports/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 15ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:19.737Z"}
+{"context":"","level":"info","message":"➡️  POST /notifications/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:23.304Z"}
+{"context":"","level":"info","message":"⬅️  POST /notifications/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 36ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:23.340Z"}
+{"context":"","level":"info","message":"➡️  GET /notifications/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:25.862Z"}
+{"context":"","level":"info","message":"⬅️  GET /notifications/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 15ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:25.877Z"}
+{"context":"","level":"info","message":"➡️  GET /notifications/unread-count/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:27.900Z"}
+{"context":"","level":"info","message":"⬅️  GET /notifications/unread-count/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 13ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:27.913Z"}
+{"context":"","level":"info","message":"➡️  POST /notifications/mark-all-read/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:29.422Z"}
+{"context":"","level":"info","message":"⬅️  POST /notifications/mark-all-read/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 18ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:29.440Z"}
+{"context":"","level":"info","message":"➡️  GET /groups/user/128F5D0C-7EC8-F011-B991-14F6D814225F - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:32.857Z"}
+{"context":"","level":"info","message":"⬅️  GET /groups/user/128F5D0C-7EC8-F011-B991-14F6D814225F - 25ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:01:32.882Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:10:53.421Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 766ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:10:54.187Z"}
+{"context":"","level":"info","message":"➡️  GET /users/test/public - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:04.319Z"}
+{"context":"","level":"info","message":"⬅️  GET /users/test/public - 2ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:04.321Z"}
+{"context":"","level":"info","message":"➡️  GET /users/test/personal - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:16.529Z"}
+{"context":"","level":"info","message":"⬅️  GET /users/test/personal - 2ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:16.531Z"}
+{"context":"","level":"info","message":"➡️  GET /users/profile/me - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:25.133Z"}
+{"context":"","level":"info","message":"⬅️  GET /users/profile/me - 50ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:25.183Z"}
+{"context":"","level":"info","message":"➡️  POST /accounts - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:28.450Z"}
+{"context":"","level":"info","message":"⬅️  POST /accounts - 73ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:28.524Z"}
+{"context":"","level":"info","message":"➡️  POST /accounts - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:32.512Z"}
+{"context":"","level":"info","message":"⬅️  POST /accounts - 38ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:32.550Z"}
+{"context":"","level":"info","message":"➡️  POST /transactions - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:39.383Z"}
+{"context":"","level":"info","message":"⬅️  POST /transactions - 163ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:11:39.546Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:12:24.953Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 555ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:12:25.508Z"}
+{"context":"","level":"info","message":"➡️  GET /users/test/public - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:12:38.294Z"}
+{"context":"","level":"info","message":"⬅️  GET /users/test/public - 1ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:12:38.295Z"}
+{"context":"","level":"info","message":"➡️  POST /auth/login - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:13:35.078Z"}
+{"context":"","level":"info","message":"⬅️  POST /auth/login - 427ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:13:35.505Z"}
+{"context":"","level":"info","message":"➡️  GET /users/test/public - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:13:48.922Z"}
+{"context":"","level":"info","message":"⬅️  GET /users/test/public - 2ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:13:48.924Z"}
+{"context":"","level":"info","message":"➡️  GET /users/test/personal - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:14:09.753Z"}
+{"context":"","level":"info","message":"⬅️  GET /users/test/personal - 3ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:14:09.755Z"}
+{"context":"","level":"info","message":"➡️  GET /users/profile/me - Incoming request","service":"budget-tracker-api","timestamp":"2025-11-24T13:14:29.571Z"}
+{"context":"","level":"info","message":"⬅️  GET /users/profile/me - 54ms","service":"budget-tracker-api","timestamp":"2025-11-24T13:14:29.625Z"}
